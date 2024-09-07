@@ -1,0 +1,38 @@
+map de 25 par 14
+
+fichier texte (nombre non présent dans le fichier texte mais qui apparaissent au cours d la partie dans le tableau d'entier) : case (vector)
+-666 : easter egg
+-7->-2 : décos ((rect[1-6], png[3-8])
+-1 : mur
+0 : case vide
+1 : laser
+2 : gemme non récoltée (Circle[0], png[0])
+(3) : gemme récoltée
+4 : sortie bloquée
+(5) : sortie ouverte
+6 : position de départ du joueur (rect[7], png[9])
+10->14 : 1er type de téléporteur (rect[12] , png[14])
+15->19 : 2e type de téléporteur (rect[12] , png[14])
+21 : flèche vers le bas (rect[8], png[10])
+22 : flèche vers le haut (rect[9], png[11])
+23 : flèche vers la gauche (rect[10], png[12])
+24 : flèche vers la droite (rect[11], png[13])
+31 : levier désactivé (rect[13] , png[15])
+(32) : levier activé (rect[14] , png[16])
+33, (36) : lasers du levier activés
+34, (35) : lasers du levier désactivés
+37 : lasers du levier qui ne se désactivent jamais
+41 : blaser horizontal haut (placé en coin)
+42 : blaser vertical gauche (placé en coin)
+43 : blaser horizontal bas (placé en coin)
+44 : blaser vertical droit (placé en coin)
+51->59 : clés non récoltées (rect[0], png[1])
+(61->69) : clés récoltées
+71->79 : cadenas fermés (Circle[1], png[2])
+(81->89) : cadenas ouverts
+101->110 : lasers clignotants
+111->120 : lasers clignotants éteints
+120 : champi inverseur d'écran (rect[15], png[17])
+
+
+

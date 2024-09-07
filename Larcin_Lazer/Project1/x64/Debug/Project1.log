@@ -1,0 +1,436 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (minprojfinal.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Carte.cpp
+  Jeu.cpp
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.h(53,25): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(18,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(24,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(24,26): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(25,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(25,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(26,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(26,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(27,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(27,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(57,24): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(64,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(88,23): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(94,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(94,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(95,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(95,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(96,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(96,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(97,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(97,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(113,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(114,23): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(117,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(117,26): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(120,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(120,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(124,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(124,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(134,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(140,51): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(140,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(141,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(141,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(142,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(142,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(143,51): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(143,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(147,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(147,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(148,51): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(148,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(149,51): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(149,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(150,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(150,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(152,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(152,26): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(201,22): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(203,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(203,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(218,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(218,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(225,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(225,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(256,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(256,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(262,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(262,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(267,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(267,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(272,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(272,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(277,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(277,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(282,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(282,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(287,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(287,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(292,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(292,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(297,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(297,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(302,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(302,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(334,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(334,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(339,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(339,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(344,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(344,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(349,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(349,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(354,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(354,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(359,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(359,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(364,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(364,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(369,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(369,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(374,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(374,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(440,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(440,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(446,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(446,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(458,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(458,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(464,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(464,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(476,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(476,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(482,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(482,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(494,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(494,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(500,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(500,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(516,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(516,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(531,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(531,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(546,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(546,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(561,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(561,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(576,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(576,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(591,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(591,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(600,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(600,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(609,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(609,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(618,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(618,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(627,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(627,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(636,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(636,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(645,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(645,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(654,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(654,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(663,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(663,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(672,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(672,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(681,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(681,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(696,67): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(696,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(711,67): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(711,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(762,23): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(764,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(764,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(770,23): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(772,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(772,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(778,23): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(780,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(780,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(786,23): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(788,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(788,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(930,67): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(930,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(1165,29): warning C4305: '=' : troncation de 'double' à 'float'
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(1645,21): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(1647,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(1647,24): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.cpp(1745,6): warning C4101: 'level' : variable locale non référencée
+  Joueur.cpp
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(387,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(387,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(398,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(398,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(410,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(410,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(422,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(422,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(434,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Joueur.cpp(434,24): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  main.cpp
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.h(53,25): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\main.cpp(18,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Menu.cpp
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Jeu.h(53,25): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1190,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1197,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1197,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1198,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1198,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1199,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1199,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1200,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1200,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1231,21): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1233,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1233,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1244,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1244,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1257,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1257,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1262,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1262,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1266,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1266,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1272,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1272,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1276,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1276,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1282,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1282,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1286,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1286,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1292,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1292,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1296,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1296,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1302,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1302,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1306,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1306,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1312,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1312,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1316,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1316,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1322,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1322,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1326,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1326,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1332,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1332,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1336,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1336,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1342,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1342,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1346,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1346,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1370,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1370,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1374,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1374,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1380,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1380,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1384,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1384,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1390,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1390,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1394,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1394,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1400,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1400,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1404,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1404,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1410,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1410,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1414,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1414,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1420,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1420,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1424,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1424,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1430,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1430,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1434,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1434,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1440,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1440,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1444,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1444,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1450,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1450,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1454,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1454,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1478,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1478,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1483,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1483,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1488,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1488,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1493,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1493,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1498,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1498,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1503,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1503,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1508,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1508,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1513,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1513,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1518,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1518,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1523,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1523,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1528,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1528,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1532,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1532,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1538,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1538,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1542,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1542,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1548,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1548,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1552,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1552,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1558,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1558,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1562,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1562,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1568,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1568,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1572,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1572,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1578,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1578,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1582,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1582,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1588,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1588,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1592,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1592,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1598,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1598,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1602,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1602,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1608,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1608,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1612,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1612,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1618,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1618,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1622,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1622,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1628,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1628,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1633,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1633,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1660,22): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1662,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1662,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1668,22): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1670,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1670,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1676,22): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1678,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1678,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1684,22): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1686,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1686,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1695,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1695,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1703,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1703,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1711,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1711,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1719,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1719,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1727,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1727,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1735,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1735,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1743,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1743,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1751,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1751,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1759,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1759,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1767,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1767,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1773,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\Project1\Menu.cpp(1773,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Son.cpp
+  Génération de code en cours...
+  Project1.vcxproj -> C:\Users\flavi\Desktop\FISE1\semestre 6\miniproj\Larcin_Lazer\Larcin_Lazer\x64\Debug\Project1.exe
