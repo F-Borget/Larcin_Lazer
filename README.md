@@ -26,5 +26,4 @@ After that, you can click on ("Menu Principale") to go back to the main menu.
 With the - and + next to ("Choix des niveaux") you can select the level that you want.
 
 Author : 
-Malo Galabert de Clercq
-Flavien Borget
+Malo GALABERT DE CLERCQ / Flavien BORGET
